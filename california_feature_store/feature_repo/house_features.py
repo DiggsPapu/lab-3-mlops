@@ -28,6 +28,7 @@ house_feature_view = FeatureView(
         Field(name="Longitude", dtype=Float64),
         Field(name="MedPP", dtype=Float64),
         Field(name="RatioRoomsBed", dtype=Float64),
+        Field(name="HouseP", dtype=Float64),
         # Field(name="MedHouseVal", dtype=Float64), # Este no es un feature, es target val.
     ],
     source=house_data_source,

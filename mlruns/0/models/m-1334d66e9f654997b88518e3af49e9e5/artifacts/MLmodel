@@ -1,0 +1,22 @@
+artifact_path: file:///home/diggspapu/lab-3-mlops/mlruns/0/models/m-1334d66e9f654997b88518e3af49e9e5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.0
+model_id: m-1334d66e9f654997b88518e3af49e9e5
+model_size_bytes: 594
+model_uuid: m-1334d66e9f654997b88518e3af49e9e5
+prompts: null
+run_id: cfa54d0fab4644c795231853e7eee288
+utc_time_created: '2025-10-20 01:51:13.754960'

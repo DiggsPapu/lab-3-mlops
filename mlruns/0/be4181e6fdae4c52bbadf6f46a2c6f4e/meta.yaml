@@ -1,0 +1,14 @@
+artifact_uri: file:///home/diggspapu/lab-3-mlops/mlruns/0/be4181e6fdae4c52bbadf6f46a2c6f4e/artifacts
+end_time: 1760925505531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be4181e6fdae4c52bbadf6f46a2c6f4e
+run_name: gradient_boosting_regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760925470394
+status: 3
+tags: []
+user_id: diggspapu
