@@ -1,0 +1,10 @@
+artifact_location: file:///home/diggspapu/lab-3-mlops/mlruns/0/models/m-f4895d0e0f564154b64de4ea9ba0ac29/artifacts
+creation_timestamp: 1760920127120
+experiment_id: '0'
+last_updated_timestamp: 1760920129425
+model_id: m-f4895d0e0f564154b64de4ea9ba0ac29
+model_type: null
+name: gradient_boosting_regressor
+source_run_id: 1641c602e4294345b89a6d110ccea9a9
+status: 2
+status_message: null
