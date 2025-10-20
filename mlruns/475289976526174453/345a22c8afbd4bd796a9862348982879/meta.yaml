@@ -1,0 +1,14 @@
+artifact_uri: file:///home/diggspapu/lab-3-mlops/mlruns/475289976526174453/345a22c8afbd4bd796a9862348982879/artifacts
+end_time: 1760927818908
+entry_point_name: ''
+experiment_id: '475289976526174453'
+lifecycle_stage: active
+run_id: 345a22c8afbd4bd796a9862348982879
+run_name: random_forest_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760927814415
+status: 3
+tags: []
+user_id: diggspapu

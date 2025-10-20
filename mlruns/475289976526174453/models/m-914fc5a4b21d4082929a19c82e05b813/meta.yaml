@@ -1,0 +1,10 @@
+artifact_location: file:///home/diggspapu/lab-3-mlops/mlruns/475289976526174453/models/m-914fc5a4b21d4082929a19c82e05b813/artifacts
+creation_timestamp: 1760927815237
+experiment_id: '475289976526174453'
+last_updated_timestamp: 1760927818865
+model_id: m-914fc5a4b21d4082929a19c82e05b813
+model_type: null
+name: model
+source_run_id: 345a22c8afbd4bd796a9862348982879
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/diggspapu/lab-3-mlops/mlruns/475289976526174453/472a02acf0aa4e4bab3a692473fc34fd/artifacts
+end_time: 1760927814410
+entry_point_name: ''
+experiment_id: '475289976526174453'
+lifecycle_stage: active
+run_id: 472a02acf0aa4e4bab3a692473fc34fd
+run_name: linear_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760927808717
+status: 3
+tags: []
+user_id: diggspapu
